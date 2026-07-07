@@ -1,3 +1,4 @@
 # hello
 repo for Cisc190
-i love guitar, ice cream and cars.
+
+i love guitars, ice cream and cars.
